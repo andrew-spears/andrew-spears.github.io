@@ -20,7 +20,7 @@ I'm an MIT student with degrees in Mathematics and Computer Science, pursuing M.
 
 ## Skills
 
-**Languages:** Python, C++, Java, JavaScript, Assembly, Coq, Lean
+**Languages:** Python, Julia, Assembly, Rocq, Lean
 
 **Tools & Libraries:** PyTorch, NumPy, Pandas, Git, LaTeX
 
@@ -28,7 +28,7 @@ I'm an MIT student with degrees in Mathematics and Computer Science, pursuing M.
 
 ## Other Interests
 
-In undergrad, I was a sprinter on MIT's Varsity Track & Field team. I play classical piano and enjoy chess, go, and volleyball.
+I am a sprinter on MIT's Varsity Track & Field team. I play classical piano and enjoy chess, go, and volleyball.
 
 ---
 
