@@ -18,9 +18,9 @@ I'm interested in a wide variety of topics, but most concretely in game theory, 
 - Modularized abstract representation of register state and proved correctness of vectorized instructions
 
 **Game Theory & ML Research** – MIT Economics (2024 - present)
-- Poker strategy optimization using reinforcement learning
-- Developing tools for computational game theory problems
-- Analytically solving Nash equilibria in simplified games
+- Analytically solving Nash equilibria in simplified games, including a [family of poker variants](https://github.com/andrew-spears/poker_variant_analysis/blob/main/papers/limit_continuous_poker/main/main.pdf)
+- Reinforcement learning and MCTS for large-action-space games including Poker and Coup
+- Developing software tools for computational game theory problems
 
 **Quantitative Research** – Virtu Financial (2024, 2025)
 - Analyzed quote size trends using innovative feature transformations to address data correlation challenges
